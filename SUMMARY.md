@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Page 1](README.md)
+* [👋 Welcome to A Product](welcome-to-a-product.md)
 
 ## Overview
 
