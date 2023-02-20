@@ -1,17 +1,10 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [👋 Welcome to A Product](welcome-to-a-product.md)
+* [👋 Welcome to the staff docs.](README.md)
 
-## Overview
+## Staff Guides
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Accessing your clients.](staff-guides/accessing-your-clients..md)
 
 ## Fundamentals
 
